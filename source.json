@@ -18,7 +18,8 @@
             "name":"dev.mii.vrclens-ma-installer",
             "releases":[
                 "https://github.com/mii443/vpm-repo/releases/download/vrclens-ma-installer-v0.1.1/dev.mii.vrclens-ma-installer-0.1.1.zip",
-                "https://github.com/mii443/vrclens-ma-installer/releases/download/v0.1.2/dev.mii.vrclens-ma-installer-0.1.2.zip"
+                "https://github.com/mii443/vrclens-ma-installer/releases/download/v0.1.2/dev.mii.vrclens-ma-installer-0.1.2.zip",
+                "https://github.com/mii443/vrclens-ma-installer/releases/download/v0.1.3/dev.mii.vrclens-ma-installer-0.1.3.zip"
             ]
         }
     ]
