@@ -1,2 +1,14 @@
 ﻿.idea
 .vscode
+/dist/
+/Assets/
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/ProjectSettings/
+/Packages/*
+!/Packages/dev.mii.vrclens-ma-installer/
+/Packages/dev.mii.vrclens-ma-installer/Tests/
+*.csproj
+*.sln
