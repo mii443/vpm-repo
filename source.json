@@ -1,7 +1,7 @@
 {
     "name":"mii VPM Repository",
     "id":"dev.mii.vpm",
-    "url":"https://mii443.github.io/vpm-repo/index.json",
+    "url":"https://vpm.mii.dev/index.json",
     "author":{
         "email":"mii@mii.dev",
         "name":"mii",
@@ -17,7 +17,8 @@
         {
             "name":"dev.mii.vrclens-ma-installer",
             "releases":[
-                "https://github.com/mii443/vpm-repo/releases/download/vrclens-ma-installer-v0.1.1/dev.mii.vrclens-ma-installer-0.1.1.zip"
+                "https://github.com/mii443/vpm-repo/releases/download/vrclens-ma-installer-v0.1.1/dev.mii.vrclens-ma-installer-0.1.1.zip",
+                "https://github.com/mii443/vrclens-ma-installer/releases/download/v0.1.2/dev.mii.vrclens-ma-installer-0.1.2.zip"
             ]
         }
     ]

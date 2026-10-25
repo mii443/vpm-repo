@@ -1,16 +1,5 @@
 # Changelog
 
-## 0.1.1
+更新履歴は[Installer専用リポジトリのCHANGELOG](https://github.com/mii443/vrclens-ma-installer/blob/main/CHANGELOG.md)へ移動しました。
 
-- Lyra Menu Manager用Item Proxyの設定ボタンを追加。
-- LyraでVRCLensを移動・改名した後も、カスタマイズのVRCFuryメニュー追加先を追従。
-- 共有サブメニューを含むVRCLensメニューの追跡に対応。
-- Prefab Variantへの参照・プレビュー変更の保存を明示化。
-- InstallerとアバターのVariant、Lyra、カスタマイズ併用のSDK統合テストを追加。
-
-## 0.1.0
-
-- VRCLens 1.10.0をNDMFビルド時に自動適用。
-- 元のメニュー・パラメーター・アニメーションの複製と一時生成物の移管。
-- 空のInstaller Prefab、設定Inspector、カスタマイズ配置先を追加。
-- 有料アセットを含めない許可リスト方式の配布ZIP生成。
+[0.1.1のRelease](https://github.com/mii443/vpm-repo/releases/tag/vrclens-ma-installer-v0.1.1)は引き続き利用できます。
